@@ -1,2 +1,2 @@
 # nuke-bot
-Discord nuke bot written in python
+Sannu's discord nuke bot written in python
