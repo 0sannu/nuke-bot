@@ -5,7 +5,7 @@ intents = discord.Intents(messages=True, guilds=True, members=True)
 client = commands.Bot(command_prefix='!', intents=intents)
 client.remove_command("help")
 
-token = "" # insert your token here
+token = "" # insert bot your token here
 
 @client.event
 async def on_ready():
